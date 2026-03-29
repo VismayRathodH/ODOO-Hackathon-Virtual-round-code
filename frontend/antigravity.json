@@ -1,0 +1,7 @@
+{
+  "name": "expense-manager-frontend",
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "envVars": ["NEXT_PUBLIC_API_URL", "NEXT_PUBLIC_SOCKET_URL"]
+}
